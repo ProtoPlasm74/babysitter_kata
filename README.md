@@ -6,7 +6,7 @@ To run:
 python3 main.py
 
 To test:
-python3 test.py
+python3 tests.py
 
 Unit tests are located in the tests.py.
 The solution is in main.py.
