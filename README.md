@@ -1,5 +1,7 @@
 This is a python script to solve the kata below.
 
+Python 3.8.9
+
 Unit tests are located in the tests.py.
 The solution is in main.py.
 
