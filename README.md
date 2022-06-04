@@ -2,6 +2,12 @@ This is a python script to solve the kata below.
 
 Python 3.8.9
 
+To run:
+python3 main.py
+
+To test:
+python3 test.py
+
 Unit tests are located in the tests.py.
 The solution is in main.py.
 
@@ -40,5 +46,3 @@ Feature:
 As a babysitter
 In order to get paid for 1 night of work
 I want to calculate my nightly charge
-
-

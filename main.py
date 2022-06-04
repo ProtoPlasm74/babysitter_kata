@@ -1,8 +1,3 @@
-# hour 0-3 is 12/hr
-# hour 4-6 is 8/hr
-# hour 7-10 is 16/hr
-
-
 def main():
     start_time = starting_hour_input()
     end_time = ending_hour_input()
